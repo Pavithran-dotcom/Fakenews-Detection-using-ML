@@ -25,7 +25,7 @@ except Exception as e:
 
 # ========== API CONFIGURATION ==========
 # Add your actual API keys here or set as environment variables
-GNEWS_API_KEY = os.getenv('GNEWS_API_KEY', '01818c115243c12cf11afae1275b7d11')
+GNEWS_API_KEY = os.getenv('GNEWS_API_KEY', 'your gnews apikey')
 GEMINI_API_KEY = ''
 
 # Configure Gemini
